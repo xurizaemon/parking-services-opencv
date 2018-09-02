@@ -84,3 +84,7 @@ opencv_visualisation --image=./samples/testing/Screenshot-from-2018-09-01-22-32-
 ```
 
 This seems to show the visualiser looking in the top left corner, which makes me think I've done something wrong with the model/sizes?
+
+![visualiser looks like this](misc/model_visualization.gif)
+
+What's with that?
