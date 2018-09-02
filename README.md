@@ -1,5 +1,13 @@
 # Detecting things with OpenCV
 
+## Morality of this project
+
+Q: _What the fuck Chris, you're weaponising the ability to spot parking wardens, this will lead to people driving their cars more. Why?_
+
+A: OK, it's not smart to weaponise things, but I kind of assume everything has already been weaponised. But this one isn't for the moral position of liberating all the weapons, it's just that I want to learn an object recognition / learning toolkit and my desk window means I keep telling other Petridish folks when I spot the parking warden.
+
+The parking warden wears a distinctive enough safety jacket that we could probably do this by spotting 50 pixels of high-viz yellow and dispense with the clever learning toolkits anyway.
+
 ## Reference points
 
 - Installed OpenCV binaries from https://github.com/jabelone/OpenCV-for-Pi on Pi
